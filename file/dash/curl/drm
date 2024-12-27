@@ -1,0 +1,17 @@
+curl 'https://license.vidio.com/ri/licenseManager.do' \
+  -H 'pallycon-customdata-v2: eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiODk0MzY2OTEiLCJjaWQiOiJsaXZlXzgxMjBfYWUzN2JhODZmYTFkIiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb25GQ29vNUcwYXFqSktYOG51Q3Z1eEN1S2lHRGNrQ0t6ajU4L3AzOFJjNWsiLCJ0aW1lc3RhbXAiOiIyMDI0LTEyLTI3VDA1OjMyOjMwWiIsImhhc2giOiJQajZmcFN4QzhTQzI2UmdVb0hXYS9hUWRNUHpaUDU3L09zc1AvejlGVUdrPSIsImtleV9yb3RhdGlvbiI6ZmFsc2UsInZpZGlvX2NvbnRlbnRfaWQiOjgxMjAsInZpZGlvX2NvbnRlbnRfdHlwZSI6IkxpdmVzdHJlYW1pbmciLCJpc19wcmV2aWV3Ijp0cnVlfQ==' \
+  -H 'sec-ch-ua: "Not-A.Brand";v="99", "Chromium";v="124"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  -H 'accept: */*' \
+  -H 'origin: https://m.vidio.com' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://m.vidio.com/' \
+  -H 'accept-encoding: gzip, deflate, br' \
+  -H 'accept-language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7' \
+  -H 'x-forwarded-for: 114.10.135.243' \
+  --data-raw $'\u0008\u0004' \
+  --compressed
