@@ -1,22 +1,23 @@
-function addTask() {
-    var taskInput = document.getElementById("taskInput");
-    var taskList = document.getElementById("taskList");
-    var newTask = document.createElement("li");
-    var taskText = document.createTextNode(taskInput.value);
+const countdownDate = new Date("2023-01-01T00:00:00");
 
-    newTask.appendChild(taskText);
-    taskList.appendChild(newTask);
-    taskInput.value = "";
+const daysElement = document.querySelector(".days");
+const hoursElement = document.querySelector(".hours");
+const minutesElement = document.querySelector(".minutes");
+const secondsElement = document.querySelector(".seconds");
 
-    newTask.onclick = function () {
-        if (newTask.classList.contains("completed")) {
-            newTask.classList.remove("completed");
-        } else {
-            newTask.classList.add("completed");
-        }
-    };
+const updateCountdown = () => {
+  const now = new Date();
+  const timeLeft = countdownDate - now;
 
-    newTask.ondblclick = function () {
-        taskList.removeChild(newTask);
-    };
-}
+  const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+  const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+  daysElement.textContent = days.toString().padStart(2, "0");
+  hoursElement.textContent = hours.toString().padStart(2, "0");
+  minutesElement.textContent = minutes.toString().padStart(2, "0");
+  secondsElement.textContent = seconds.toString().padStart(2, "0");
+};
+
+setInterval(updateCountdown, 1000);
