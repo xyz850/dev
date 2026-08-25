@@ -1,61 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns="urn:mpeg:dash:schema:mpd:2011"
-	xmlns:xlink="http://www.w3.org/1999/xlink"
-	xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
-	profiles="urn:mpeg:dash:profile:isoff-live:2011"
-	type="static"
-	mediaPresentationDuration="PT1M4.6S"
-	maxSegmentDuration="PT5.0S"
-	minBufferTime="PT16.6S">
-	<ProgramInformation>
-	</ProgramInformation>
-	<ServiceDescription id="0">
-	</ServiceDescription>
-	<Period id="0" start="PT0.0S">
-		<AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="30/1" maxWidth="1280" maxHeight="720" par="16:9" lang="eng">
-			<Representation id="0" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="1500000" width="1280" height="720" sar="1:1">
-				<SegmentTemplate timescale="15360" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
-					<SegmentTimeline>
-						<S t="0" d="128000" r="6" />
-						<S d="97280" />
-					</SegmentTimeline>
-				</SegmentTemplate>
-			</Representation>
-		</AdaptationSet>
-		<AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="eng">
-			<Representation id="1" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="128000" audioSamplingRate="44100">
-				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
-				<SegmentTemplate timescale="44100" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
-					<SegmentTimeline>
-						<S t="0" d="220139" />
-						<S d="221184" r="10" />
-						<S d="198656" />
-					</SegmentTimeline>
-				</SegmentTemplate>
-			</Representation>
-		</AdaptationSet>
-		<AdaptationSet id="2" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="30/1" maxWidth="854" maxHeight="480" par="427:240" lang="eng">
-			<Representation id="2" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="800000" width="854" height="480" sar="1:1">
-				<SegmentTemplate timescale="15360" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
-					<SegmentTimeline>
-						<S t="0" d="128000" r="6" />
-						<S d="97280" />
-					</SegmentTimeline>
-				</SegmentTemplate>
-			</Representation>
-		</AdaptationSet>
-		<AdaptationSet id="3" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="eng">
-			<Representation id="3" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="128000" audioSamplingRate="44100">
-				<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
-				<SegmentTemplate timescale="44100" initialization="init-stream$RepresentationID$.m4s" media="chunk-stream$RepresentationID$-$Number%05d$.m4s" startNumber="1">
-					<SegmentTimeline>
-						<S t="0" d="220139" />
-						<S d="221184" r="10" />
-						<S d="198656" />
-					</SegmentTimeline>
-				</SegmentTemplate>
-			</Representation>
-		</AdaptationSet>
-	</Period>
-</MPD>
+#EXTM3U
+## Generated with https://github.com/shaka-project/shaka-packager version v3.0.4-20260402-093613-73abb107-release
+
+#EXT-X-INDEPENDENT-SEGMENTS
+
+
+#EXT-X-MEDIA:TYPE=AUDIO,URI="/stream/782/file/primary/aac/hdntl=exp=1787636344~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fmaster.m3u8!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=882499b85632bfd0d4a0bc557be291611f44f3ba8607f853d760e98d02fe19b5/index.m3u8",GROUP-ID="primary-audio",NAME="aac",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=1394217,AVERAGE-BANDWIDTH=658109,CODECS="av01.0.05M.08.0.110.01.01.01.0,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="primary-audio",CLOSED-CAPTIONS=NONE
+/stream/782/file/primary/av1-720p/hdntl=exp=1787636344~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fmaster.m3u8!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=882499b85632bfd0d4a0bc557be291611f44f3ba8607f853d760e98d02fe19b5/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=795140,AVERAGE-BANDWIDTH=434274,CODECS="av01.0.04M.08.0.110.01.01.01.0,mp4a.40.2",RESOLUTION=853x480,FRAME-RATE=25.000,AUDIO="primary-audio",CLOSED-CAPTIONS=NONE
+/stream/782/file/primary/av1-480p/hdntl=exp=1787636344~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fmaster.m3u8!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=882499b85632bfd0d4a0bc557be291611f44f3ba8607f853d760e98d02fe19b5/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=566408,AVERAGE-BANDWIDTH=345041,CODECS="av01.0.01M.08.0.110.01.01.01.1,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO="primary-audio",CLOSED-CAPTIONS=NONE
+/stream/782/file/primary/av1-360p/hdntl=exp=1787636344~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fmaster.m3u8!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=882499b85632bfd0d4a0bc557be291611f44f3ba8607f853d760e98d02fe19b5/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2072311,AVERAGE-BANDWIDTH=1040870,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="primary-audio",CLOSED-CAPTIONS=NONE
+/stream/782/file/primary/avc-720p/hdntl=exp=1787636344~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fmaster.m3u8!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=882499b85632bfd0d4a0bc557be291611f44f3ba8607f853d760e98d02fe19b5/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1153359,AVERAGE-BANDWIDTH=627386,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=853x480,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="primary-audio",CLOSED-CAPTIONS=NONE
+/stream/782/file/primary/avc-480p/hdntl=exp=1787636344~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fmaster.m3u8!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=882499b85632bfd0d4a0bc557be291611f44f3ba8607f853d760e98d02fe19b5/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=867684,AVERAGE-BANDWIDTH=492076,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="primary-audio",CLOSED-CAPTIONS=NONE
+/stream/782/file/primary/avc-360p/hdntl=exp=1787636344~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fmaster.m3u8!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=882499b85632bfd0d4a0bc557be291611f44f3ba8607f853d760e98d02fe19b5/index.m3u8
