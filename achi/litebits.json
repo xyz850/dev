@@ -1,0 +1,8 @@
+{
+  "init_data": "user=%7B%22id%22%3A8258945747%2C%22first_name%22%3A%22Yoyong%22%2C%22last_name%22%3A%22Ocil%22%2C%22username%22%3A%22yoyongocil%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FJRjfncLQFpKZotZw_mAEZy2x59J5QF_MOtN8CgcHudtw6GU3Dw-uXmrN9aoUwjf4.svg%22%7D&chat_instance=-8642947424726662576&chat_type=sender&start_param=A7F2K9&auth_date=1790024089&signature=zhcvMBYGyZHasMe5eH5KuBZDgULJ9fz6oL7qP4DtYqRQ1m16AWk0tIt9mIX97lfWomDoELIecSsBCEiZQWsNCA&hash=faa3f8f5cdec4019d0ad99bcb3e16478c0c90a52813a493420ff081db29c783e",
+  "auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxNzlhYTVlZC03YjY0LTRiNWEtOTc3OC1iM2Q0ZTM5YTZiNWMiLCJlbWFpbCI6InRlbGVncmFtXzgyNTg5NDU3NDdAdGVsZWdyYW0ubG9jYWwiLCJwcm92aWRlciI6InRlbGVncmFtIiwiaWF0IjoxNzkwMDY5MTIzLCJleHAiOjE3OTA2NzM5MjN9.jVGOKH8LCqvK1CppoWZX_OCJEMQ2kiqmPKnmMKsYGXU",
+  "bot_username": "litebits_faucet_bot",
+  "user_agent": "Mozilla/5.0 (Linux; Android 14; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36 Telegram-Android",
+  "total_earned": 81.0,
+  "total_cycles": 81
+}
