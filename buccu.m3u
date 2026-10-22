@@ -3,7 +3,6 @@
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 group-title="INDONESIA" tvg-name="INDOSIAR 1 ALTERNATIF",INDOSIAR 1 ALTERNATIF
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdntl=exp=1792701576~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f205%2ffile%2f*%2faac%2f*!%2fstream%2f205%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2f*%2f*-360p%2f*~id=89436691~data=hdntl~hmac=8431619eff2e15adfd03e17776f8774773c0323d1af43de0a5bda677d701e7fd
-
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdntl=exp=1792706337~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f205%2ffile%2f*%2faac%2f*!%2fstream%2f205%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2f*%2f*-360p%2f*~id=89436691~data=hdntl~hmac=11cc9856b67ac63e8129f25d271d450ed64d35d686b5605db7067db1893c53c2
 #EXTINF:-1 group-title="INDONESIA" tvg-name="ANTV 1 ALTERNATIF",ANTV 2 ALTERNATIF
 https://token-v2-geo-id-media-001-vidio-com.akamaized.net/uploads/9541156/ETS298282b32f193b89b/v-ETS298282b32f193b89b-high.etsvod.m4s?hdntl=exp=1792773746~acl=%2fuploads%2f9541156%2f*~id=89436691~data=hdntl~hmac=4af17ad8e7e6ffcc182b4e4d5d15041033efa8f886bde409cb07d5efdb61d54a
