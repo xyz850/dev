@@ -17,3 +17,19 @@ https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenst
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-cookie=cshx=3bcdb206
 https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786478234906&wowzatokenhash=mROhvnOElOh8J9-s6mmxi52TJWiGXGgxaQxvYQ-WUdg%3D
+#EXTINF:-1 group-title="INDONESIA" tvg-name="TVONE",TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-name="METROTV",METROTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/02.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-name="MDTV",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-name="RTV",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
