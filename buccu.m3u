@@ -2,9 +2,9 @@
 #EXTINF:-1 group-title="INDONESIA" tvg-name="SCTV",SCTV
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTINF:-1 group-title="INDONESIA" tvg-name="INDOSIAR",INDOSIAR
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdntl=exp=1792714989~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f205%2ffile%2f*%2faac%2f*!%2fstream%2f205%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2f*%2f*-360p%2f*~id=89436691~data=hdntl~hmac=cbbdc17f8d1e5bcb5eb313d23e89dee0249d50a0c7c5e54972874feabc06d019
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/stream.mpd?hdntl=exp=1792717444~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f205%2ffile%2f*%2faac%2f*!%2fstream%2f205%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2f*%2f*-360p%2f*~id=89436691~data=hdntl~hmac=df1414c8928d4035809abe38420df99a2227b92a421c50a177da4d11d7748641
 #EXTINF:-1 group-title="INDONESIA" tvg-name="ANTV",ANTV 
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/res=1080p/file/stream.mpd?hdntl=exp=1792707607~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=89436691~data=hdntl~hmac=345debbdc78686f5831bed77d32edbb7c65a5bacbc19133eaf2069fb7e6cdc96
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/res=1080p/file/stream.mpd?hdntl=exp=1792717181~acl=%2fstream%2f782%2fres%3d1080p%2ffile%2fstream.mpd!%2fstream%2f782%2ffile%2f*%2faac%2f*!%2fstream%2f782%2ffile%2f*%2f*-1080p%2f*!%2fstream%2f782%2ffile%2f*%2f*-720p%2f*!%2fstream%2f782%2ffile%2f*%2f*-480p%2f*!%2fstream%2f782%2ffile%2f*%2f*-360p%2f*~id=89436691~data=hdntl~hmac=acd5ca0f826a4852451a8c82d406d7d8f38ed08afad3ae241d0495db79df111a
 #EXTINF:-1 group-title="INDONESIA" tvg-name="TRANSTV",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
@@ -33,3 +33,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/02.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-name="BERITA SATU",BERITA SATU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-name="BTV",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
