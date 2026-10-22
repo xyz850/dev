@@ -10,10 +10,10 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/res=1080p
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-cookie=cshx=3bcdb206
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786477084743&wowzatokenhash=67bQO-FmZtY5VJrBbFGFcV8AMTJ3jqBjhY79i0nA_dU%3D
 #EXTINF:-1 group-title="INDONESIA" tvg-name="TRANS 7",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-cookie=cshx=3bcdb206
-https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786478234906&wowzatokenhash=mROhvnOElOh8J9-s6mmxi52TJWiGXGgxaQxvYQ-WUdg%3D
