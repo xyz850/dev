@@ -4,6 +4,15 @@
 #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
 #EXTVLCOPT:http-origin=https://embed.rctiplus.com
 https://proxy-c.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793032628-8a11c1aedee1d0268f729ca9532b5f80-YtHQBNGYFC3P8iUqCZ7WXba6cR3hJkITTIjZFYXm-473ca255bd24f358df0d360b686d9443
+#EXTINF:-1 group-title="INDONESIA" tvg-name="RCTI",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+#EXTVLCOPT:http-origin=https://embed.rctiplus.com
+#EXTVLCOPT:http-sec-fetch-site=cross-site
+#EXTVLCOPT:http-sec-fetch-mode=cors
+#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
+#EXTVLCOPT:http-accept-language=id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7
+https://proxy-c.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793033734-a9bb53a619ef65063f8ed6ac241c8540-xhuIexhKAUaKLyem0SFBg5LTJebRAHVQWkmicio4-63b731f499e53b5ed965a4958848a1d5
 #EXTINF:-1 group-title="INDONESIA" tvg-name="SCTV",SCTV
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTINF:-1 group-title="INDONESIA" tvg-name="INDOSIAR",INDOSIAR
