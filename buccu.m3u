@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="INDONESIA" tvg-name="MNCTV",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+#EXTVLCOPT:http-origin=https://embed.rctiplus.com
+https://proxy-c.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793032628-8a11c1aedee1d0268f729ca9532b5f80-YtHQBNGYFC3P8iUqCZ7WXba6cR3hJkITTIjZFYXm-473ca255bd24f358df0d360b686d9443
 #EXTINF:-1 group-title="INDONESIA" tvg-name="SCTV",SCTV
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTINF:-1 group-title="INDONESIA" tvg-name="INDOSIAR",INDOSIAR
