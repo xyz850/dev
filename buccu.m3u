@@ -23,7 +23,7 @@ https://proxy-v.rctiplus.id/live/GvisionTV/rcti/rcti-sdi-avc1_1000000=17-mp4a_96
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-origin=https://www.rctiplus.com
-https://proxy-v.rctiplus.id/live/GvisionTV/gtv/gtv-sdi-avc1_100000=2-mp4a_96000=1.m3u8
+https://proxy-v.rctiplus.id/live/GvisionTV/gtv/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="ANTV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
