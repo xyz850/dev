@@ -73,7 +73,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/kompas/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/kompas/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="KIDSTV",KIDSTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -112,12 +112,12 @@ https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/hits/256.m3u8
+https://dsgtq5sngxkde.cloudfront.net/hits/256.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="NHK WORLD",NHK WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/nhkworldprem/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/nhkworldprem/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="LIFETIME",LIFETIME 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -127,7 +127,7 @@ https://dsgtq5sngxkde.cloudfront.net/lifetime/512.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/crimeinvest/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/crimeinvest/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="OUTDOOR",OUTDOOR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -201,7 +201,7 @@ https://dsgtq5sngxkde.cloudfront.net/celestialclassic/512.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/mncent/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/mncent/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="VISION PRIME",VISION PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -211,12 +211,12 @@ https://dsgtq5sngxkde.cloudfront.net/visionprime/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/hanacaraka/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/hanacaraka/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="ROCK ENT",ROCK ENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/rockent/1024.m3u8
+https://dsgtq5sngxkde.cloudfront.net/rockent/1024.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="ROCK ACT",ROCK ACT
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -228,27 +228,27 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/thrill/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/thrill/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="ZEE BIOSKOP",ZEE BIOSKOP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/zeebioskop/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/zeebioskop/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="KIX",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/kix/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/kix/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="HISTORY",HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/history/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/history/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="NICK",NICK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/nikleodeon/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/nikleodeon/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="ZOOMOO",ZOOMOO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -263,12 +263,12 @@ https://dsgtq5sngxkde.cloudfront.net/fightsports/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/musictv/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/musictv/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="INEWS",INEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/inews/index.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="RCTI WORLD",RCTI WORLD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -331,7 +331,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/cbeebies/512.m3u8
+https://dsgtq5sngxkde.cloudfront.net/cbeebies/512.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="ORIGINALS", ORIGINALS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -356,7 +356,7 @@ https://dsgtq5sngxkde.cloudfront.net/superrix/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id
-https://proxy-v.rctiplus.id/live/web/cineedge/1024.m3u8
+https://dsgtq5sngxkde.cloudfront.net/cineedge/1024.m3u8
 #EXTINF:-1 tvg-id="INDONESIA" tvg-name="BEIN 1",BEIN 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
